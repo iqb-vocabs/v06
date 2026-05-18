@@ -1,0 +1,23 @@
+{
+  "name": "v08",
+  "version": "0.1.0",
+  "description": "Example Tags",
+  "main": "index.js",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v06.git"
+  },
+  "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v06/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v06#readme",
+  "dependencies": {
+    "@iqb/csv2ttl": "^0.9.0"
+  }
+}

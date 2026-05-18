@@ -1,0 +1,32 @@
+{
+    "id": "iqbTestTags",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Test Tags"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v06",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "t1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Example Tags"
+          }
+        ],
+        "filenameSource": "t1_Example_Tags.csv",
+        "filenameTarget": "t1_Example_Tags.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Kategorien für formatierte Texte als Teil der Unit-Daten\"\""
+          }
+        ]
+      }
+    ]
+  }
