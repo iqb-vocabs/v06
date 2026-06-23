@@ -58,7 +58,7 @@ n0:vergessen2
 	skos:inScheme n0:;
 	skos:notation "2.6";
 	skos:broader n0:didactical_guide;
-	skos:prefLabel "Vergessen2"@de.
+	skos:prefLabel "Vergessen3"@de.
 n0:didactical_guide
 	a skos:Concept;
 	skos:inScheme n0:;
@@ -76,6 +76,7 @@ n0:
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Test Tags - Example Tags"@de;
 	dct:description """Kategorien für formatierte Texte als Teil der Unit-Daten"""@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:transcript,
 		n0:didactical_guide.
