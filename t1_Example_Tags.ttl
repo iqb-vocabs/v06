@@ -53,6 +53,12 @@ n0:vergessen
 	skos:notation "2.5";
 	skos:broader n0:didactical_guide;
 	skos:prefLabel "Vergessen"@de.
+n0:vergessen2
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "2.6";
+	skos:broader n0:didactical_guide;
+	skos:prefLabel "Vergessen2"@de.
 n0:didactical_guide
 	a skos:Concept;
 	skos:inScheme n0:;
@@ -63,7 +69,8 @@ n0:didactical_guide
 		n0:competence_level,
 		n0:misconceptions,
 		n0:problems,
-		n0:vergessen.
+		n0:vergessen,
+		n0:vergessen2.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
