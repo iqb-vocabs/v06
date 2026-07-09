@@ -47,30 +47,16 @@ n0:problems
 	skos:notation "2.4";
 	skos:broader n0:didactical_guide;
 	skos:prefLabel "Mögliche Probleme bei der Beantwortung 2"@de.
-n0:vergessen
-	a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "2.5";
-	skos:broader n0:didactical_guide;
-	skos:prefLabel "Vergessen"@de.
-n0:vergessen3
-	a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "2.6";
-	skos:broader n0:didactical_guide;
-	skos:prefLabel "Vergessen3"@de.
 n0:didactical_guide
 	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Didaktische Handreichungen"@de;
+	skos:prefLabel "Didaktische Handreichungen 2"@de;
 	skos:narrower n0:answering_full_credit,
 		n0:competence_level,
 		n0:misconceptions,
-		n0:problems,
-		n0:vergessen,
-		n0:vergessen3.
+		n0:problems.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
