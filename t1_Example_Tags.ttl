@@ -52,13 +52,7 @@ n0:sonstiges
 	skos:inScheme n0:;
 	skos:notation "2.5";
 	skos:broader n0:didactical_guide;
-	skos:prefLabel "Sonstiges"@de.
-n0:bedarf
-	a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "2.6";
-	skos:broader n0:didactical_guide;
-	skos:prefLabel "Bedarf"@de.
+	skos:prefLabel "Sonstiges "@de.
 n0:didactical_guide
 	a skos:Concept;
 	skos:inScheme n0:;
@@ -69,8 +63,7 @@ n0:didactical_guide
 		n0:competence_level,
 		n0:misconceptions,
 		n0:problems,
-		n0:sonstiges,
-		n0:bedarf.
+		n0:sonstiges.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;

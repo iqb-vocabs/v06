@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-
+      - editor
 jobs:
   notify-parent:
     runs-on: ubuntu-latest
