@@ -1,7 +1,7 @@
 {
   "name": "v06",
-  "version": "0.2.0",
-  "description": "Example Tags",
+  "version": "0.3.0",
+  "description": "Beispiel Tags",
   "main": "index.js",
   "scripts": {
     "run_id": "addidcsv csv",

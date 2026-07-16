@@ -3,7 +3,7 @@
     "title": [
       {
         "lang": "de",
-        "value": "Test Tags"
+        "value": "Beispiel Tags"
       }
     ],
     "csv_delimiter": ",",
@@ -16,7 +16,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Example Tags"
+            "value": "Beispiel Tags"
           }
         ],
         "filenameSource": "t1_Example_Tags.csv",
